@@ -1,106 +1,59 @@
-# Hi, I'm Isha Rawat 👋
-
-### Software Developer | C++ | Full-Stack Development | Problem Solving
-
-I’m a software developer with experience building full-stack web applications and a growing focus on **C++, software engineering, and systems-oriented development**. I enjoy solving problems, understanding how software works under the hood, and building reliable applications.
-
-- 🎓 M.Tech in Information Technology (Data Analytics) at **NIT Jalandhar**
-- 💻 Interested in **software engineering, systems development, and backend engineering**
-- 🛠️ Building projects with **C++, React, Next.js, Node.js, and PostgreSQL**
-- 🧠 Practising data structures, algorithms, and problem-solving
-- 🐧 Developing and testing C++ projects in a Linux/WSL environment
-- 📫 Reach me at **[rawatisha001@gmail.com](mailto:rawatisha001@gmail.com)**
-
----
-
-## 🧰 Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**Tools & Development Environment**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### [ChangeGuard](https://github.com/IshaRawat7/ChangeGuard)
-**C++ | libcurl | CMake | GitHub Actions**
-
-A configurable API testing tool built in C++.
-
-- Executes HTTP requests and validates expected status codes.
-- Supports JSON field assertions and response-time thresholds.
-- Uses GitHub Actions for automated builds and testing.
-
-### [ZeroLuggage](https://github.com/IshaRawat7/ZeroLuggage)
-**Next.js | Node.js | Express.js | PostgreSQL | Prisma**
-
-A luggage booking and management platform designed to simplify pickup and drop-off workflows.
-
-- Built full-stack booking workflows backed by REST APIs and PostgreSQL.
-- Integrated location selection using OpenStreetMap-based geocoding.
-- Worked on a luggage-dimension estimation workflow using computer vision.
-
-### [Catering Ordering & Reservation System](https://github.com/IshaRawat7/Catering-Reservation-and-Ordering-System)
-
-A web application for managing food orders and table reservations.
-
-- Implemented ordering, reservation, and authentication workflows.
-- Integrated payment processing and administrative order management.
-
----
-
-## 📊 GitHub Stats
+# Hey, I'm Isha 👋
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IshaRawat7&show_icons=true&hide_border=true&rank_icon=github" alt="Isha's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaRawat7&layout=compact&hide_border=true" alt="Most used languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Developer+by+curiosity+%F0%9F%92%BB;Turning+ideas+into+code+%E2%9C%A8;Learning%2C+building%2C+and+breaking+things+%F0%9F%9B%A0%EF%B8%8F;Always+one+commit+away+from+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaRawat7&hide_border=true" alt="GitHub contribution streak" />
+  <em>Curious mind. Creative problem solver. Forever a work in progress.</em>
+</p>
+
+I enjoy exploring how things work, experimenting with new technologies, and turning ideas into things people can actually use. Sometimes I'm building interfaces, sometimes I'm deep in C++, and sometimes I'm debugging a tiny mistake that took way too long to find. 😅
+
+- 💻 I like building things for the web and beyond.
+- 🧩 I enjoy problem-solving and figuring out how things work under the hood.
+- 🌱 Always learning something new and improving along the way.
+- 🛠️ I believe the best way to learn is to build, experiment, and iterate.
+- 🎧 Usually coding, listening to music, or thinking about my next idea.
+- 📬 Say hello: **[rawatisha001@gmail.com](mailto:rawatisha001@gmail.com)**
+
+---
+
+## 🧰 Things I Like to Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,postgres,mongodb,prisma,git,github,linux,cmake,vscode&perline=7" alt="Technologies and tools" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📊 A Little GitHub Activity
 
-<p align="left">
-  <a href="https://linkedin.com/in/isha-rawat-290717260">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IshaRawat7&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaRawat7&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IshaRawat7&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🌐 Find Me Around the Internet
+
+<p align="center">
   <a href="https://github.com/IshaRawat7">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/isha-rawat-290717260">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rawatisha001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-*Always learning, building, and improving one commit at a time.*
+<p align="center">
+  <i>"Great things are built one small improvement at a time."</i> ✨
+</p>
